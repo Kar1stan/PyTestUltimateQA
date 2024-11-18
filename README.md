@@ -9,8 +9,6 @@ Integrated with:
 - [x] https://playwright.dev/python/docs/test-runners
 - [x] https://docs.qameta.io/allure/
 
-(+ bundlers: https://github.com/badeball/cypress-cucumber-preprocessor/tree/master/examples)
-
 ## 💻 Pre-requisites
 
 Before you use this project you only need to have PyCharm Community Edition installed in your computer.
@@ -18,7 +16,7 @@ Before you use this project you only need to have PyCharm Community Edition inst
 https://www.jetbrains.com/ru-ru/pycharm/download/#section=windows
 
 ### Git clone
-This will clone the project, install NPM packages and also the Cypres.io which is required to run the test. No Selenium Server is required.
+This will clone the project,and install the Playwright+Pytest which is required to run the tet. No Selenium Server is required.
 ```
 $ git clone https://github.com/Kar1stan/PyTestUltimateQA.git
 $ cd PyTestUltimateQA
