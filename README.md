@@ -1,6 +1,6 @@
-# AutomationExercisesTest 
+# PyTestUltimateQA
 ***
-Playwright+pytest automation 13 automation tests on site https://www.automationexercise.com/test_cases
+Playwright+pytest automation tests on https://ultimateqa.com/automation/ for practice.
 
 ## 💻 Topics
 
@@ -20,9 +20,9 @@ https://www.jetbrains.com/ru-ru/pycharm/download/#section=windows
 ### Git clone
 This will clone the project, install NPM packages and also the Cypres.io which is required to run the test. No Selenium Server is required.
 ```
-$ git clone https://github.com/Kar1stan/PlaywrightPythonAutomationExercisesTest.git
-$ cd PlaywrightPythonAutomationExercisesTest
-$ npm install
+$ git clone https://github.com/Kar1stan/PyTestUltimateQA.git
+$ cd PyTestUltimateQA
+$ pypenv install
 ```
 
 ## 🚀 Run the project: 
